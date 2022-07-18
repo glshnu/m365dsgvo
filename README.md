@@ -1,5 +1,10 @@
 # m365dsgvo
 Microsoft 365 und DSGVO
+  
+neue Links (18.07.2022)  
+https://www.it-business.de/privacy-shield-20-erhebliche-zweifel-a-d8e88b24ba7b3dfa41865587151d2473/
+  
+
 
 Stand März 2021
 
