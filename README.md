@@ -6,6 +6,7 @@ Microsoft 365 und DSGVO
 Unsere Antwort an Europa: Microsoft ermöglicht Speicherung und Verarbeitung von Daten ausschließlich in der EU  
 https://news.microsoft.com/de-de/unsere-antwort-an-europa-microsoft-ermoeglicht-speicherung-und-verarbeitung-von-daten-ausschliesslich-in-der-eu/  
   
+Privacy Shield 2.0: Erhebliche Zweifel  
 https://www.it-business.de/privacy-shield-20-erhebliche-zweifel-a-d8e88b24ba7b3dfa41865587151d2473/
   
 Law Enforcement Requests Report  
