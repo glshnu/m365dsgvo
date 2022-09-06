@@ -1,12 +1,26 @@
 # m365dsgvo
 Microsoft 365 und DSGVO
   
-neue Links (18.07.2022)  
+## Stand August 2022  
+  
 https://www.it-business.de/privacy-shield-20-erhebliche-zweifel-a-d8e88b24ba7b3dfa41865587151d2473/
   
-
-
-Stand März 2021
+Law Enforcement Requests Report  
+https://www.microsoft.com/en-us/corporate-responsibility/law-enforcement-requests-report  
+  
+Faktencheck Datenschutz: Wie wir Kundendaten verschlüsseln – ein Deep Dive  
+https://news.microsoft.com/de-de/faktencheck-datenschutz-wie-wir-kundendaten-verschluesseln/
+  
+Faktencheck Datenschutz: Wie wir unsere Kundendaten nach dem Schrems-II-Urteil schützen  
+https://news.microsoft.com/de-de/datenschutz-wie-wir-unsere-kundendaten-nach-dem-schrems-ii-urteil-schuetzen/  
+  
+DSGVO-Aktionsplan für Microsoft 365: die wichtigsten Prioritäten für die ersten 30 Tage, 90 Tage und danach
+https://docs.microsoft.com/de-de/compliance/regulatory/gdpr-action-plan  
+  
+Datenschutz-Folgenabschätzung: Leitfaden für Datenverantwortliche, die Microsoft Office 365 verwenden  
+https://docs.microsoft.com/de-de/compliance/regulatory/gdpr-dpia-office365  
+  
+## Stand März 2021
 
 Als Zusammenfassung zu unserem Call gestern hier nochmal die Informationen zu dem Thema Datenschutz. Anbei auch ein Slidedeck das ggf. weiterhilft das Thema mit Kunden zu besprechen.
 
